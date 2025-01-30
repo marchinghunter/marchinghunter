@@ -3,7 +3,7 @@
 
 - 🌟 I am passionate about creating robust and efficient web applications, I specialize in the MERN (MongoDB, Express.js, React.js, Node.js) stack. With a deep understanding of each component of this powerful technology stack, I love to bring ideas to life through clean and scalable code.
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **.NET**
 
 - 📫 How to reach me **adroitinnovator@gmail.com**
 
